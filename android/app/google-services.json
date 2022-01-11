@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "448679340398",
+    "firebase_url": "https://improve-winlogic-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "improve-winlogic",
+    "storage_bucket": "improve-winlogic.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:448679340398:android:888114b6d4b0aca102397f",
+        "android_client_info": {
+          "package_name": "biz.winlogic.improvement"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "448679340398-ild8be256sma3n6nchggl56o5hp48ckc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC3gI63CmhtMHCDsQe8wpZ5GN7-MNLp4KI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "448679340398-ild8be256sma3n6nchggl56o5hp48ckc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
